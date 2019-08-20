@@ -1,0 +1,6 @@
+framework module XXXZPSet {
+  umbrella header "XXXZPSet-umbrella.h"
+
+  export *
+  module * { export * }
+}

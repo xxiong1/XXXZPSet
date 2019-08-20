@@ -1,0 +1,22 @@
+{
+  "name": "XXXZPSet",
+  "version": "0.1.0",
+  "summary": "A short description of XXXZPSet.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xxiong1/XXXZPSet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xxiong1": "13168376064@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xxiong1/XXXZPSet.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXXZPSet/Classes/**/*"
+}
