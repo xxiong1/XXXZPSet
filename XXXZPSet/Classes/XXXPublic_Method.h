@@ -47,7 +47,7 @@ CG_INLINE CGFloat textwidth(NSString * str , UIFont *font){
     CGRect rect = [str boundingRectWithSize:CGSizeMake(MAXFLOAT, 20) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName:font} context:nil];
     return rect.size.width;
 }
-/// 获取文本
+/// 获取文本size
 CG_INLINE CGSize textSize(NSString * str , UIFont *font){
     CGRect rect = [str boundingRectWithSize:CGSizeMake(MAXFLOAT, 20) options:NSStringDrawingUsesLineFragmentOrigin attributes:@{NSFontAttributeName:font} context:nil];
     return rect.size;
