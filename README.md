@@ -17,7 +17,7 @@ XXXZPSet is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'XXXZPSet'
+pod 'XXXZPSet‘,:git=>'https://github.com/xxiong1/XXXZPSet.git'
 ```
 
 ## Author
